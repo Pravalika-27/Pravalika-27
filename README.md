@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pravalika-27
-- 👀 I’m interested in ...
+- 👀 I’m interested in DevOps and Cloud
 - 🌱 I’m currently learning AWS DevOps
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me -amgothpravalika1@gmail.com
 
 <!---
