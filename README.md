@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pravalika-27
+- 👋 Hi, I’m Pravalika
 - 👀 I’m interested in DevOps and Cloud
 - 🌱 I’m currently learning AWS DevOps
 - 💞️ I’m looking to collaborate on OpenSource Projects
